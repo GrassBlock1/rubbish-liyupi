@@ -11,6 +11,7 @@
 ![](images/rubbish_yingxiaohao_origin_repo.png)
 
 Wibus 在群里整活说：
+
 ![](images/Snipaste_2022-11-07_00-23-53.png)
 
 挺有意思，我发个 PR 玩玩
