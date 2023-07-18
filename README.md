@@ -1,10 +1,12 @@
 # 看看程序员鱼皮的嘴脸
 
+*20230718更新：鱼皮离职tx啦（*
+
 ## 起因
 
 我本人一直都是很反感程序员鱼皮（[Bilibili UP 主](https://space.bilibili.com/12890453)）。首先对于他的编程技术，我不敢恭维；其次通过付费才能加入的[知识星球](https://yupi.icu/)，割了不少韭菜，然而并无实质内容和技术含量。总的来说就是一个骗骗小白的小丑。
 
-具体吐槽可以看我朋友 Wibus 的一篇博文：[关于 B 站“知名”鱼皮 UP 主，我对他的看法 - 秉松博客](https://blog.iucky.cn/posts/says/joker_yupi_up)
+具体吐槽可以看我朋友 Wibus 的一篇博文：[关于 B 站“知名”鱼皮 UP 主，我对他的看法 - 可愛い松](https://blog.wibus.ren/posts/z-turn/joker_yupi_up)
 
 我在他 GitHub 上看到一个挺搞笑的库：rubbish-yingxiaohao
 
